@@ -1,4 +1,5 @@
-This repostiory contains Machine Learning Case Studies and Exercises based on various Regression, Classification or Clustering Problems. The datasets source(s) has been added below. Few of the datasets are scraped by myself and can be found in 'data' subdirectory in this repository.
+This repostiory contains Machine Learning Case Studies and Exercises based on various Regression, Classification or Clustering Problems. The datasets source(s) has been added below. 
+Few of the datasets are scraped by myself and can be found in this repostiry only.
 
 Dataset Courtsey:
 
