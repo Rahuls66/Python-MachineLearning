@@ -7,3 +7,9 @@ Dataset Courtsey:
 2.  Indore OLX Car Price Prediction - https://github.com/Rahuls66/Python-MachineLearning/blob/main/OLX_Indore.csv (Scraped by myself).
     
     Find the Scraping code [Here](https://github.com/Rahuls66/Python-DataScraping/blob/main/OLX%20Cars%20-%206th%20August%202021.ipynb)
+
+
+
+![Repo Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Rahuls66/Python-MachineLearning)
+
+![Watchers](https://img.shields.io/github/watchers/Rahuls66/Python-MachineLearning?style=social)
