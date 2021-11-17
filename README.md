@@ -10,6 +10,7 @@ Dataset Courtsey:
 2. Prediction of Term Deposit Subscription - https://www.kaggle.com/janiobachmann/bank-marketing-dataset
 3. HRWorks - Case Study - https://www.kaggle.com/athirakaladharan/hrworks-dataset
 4. UCI - Heart Disease Prediction - https://www.kaggle.com/ronitf/heart-disease-uci
+5. Credit Card Fraud Detection - https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
 
