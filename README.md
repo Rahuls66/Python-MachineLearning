@@ -11,6 +11,7 @@ Dataset Courtsey:
 3. HRWorks - Case Study - https://www.kaggle.com/athirakaladharan/hrworks-dataset
 4. UCI - Heart Disease Prediction - https://www.kaggle.com/ronitf/heart-disease-uci
 5. Credit Card Fraud Detection - https://www.kaggle.com/mlg-ulb/creditcardfraud
+   [Detailed Steps](https://github.com/Rahuls66/ML-CreditCard-FraudDetection)
 
 
 
